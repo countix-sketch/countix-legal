@@ -1,3 +1,7 @@
+---
+permalink: /privacy
+---
+
 Countix — Privacy Policy
 
 Effective Date: October 22, 2026
